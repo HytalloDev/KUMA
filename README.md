@@ -6,14 +6,12 @@
  Comecei na área de desenvolvimento e programação cerca de 1 ano, atualmente estou familiarizado com HTML5, CSS e JS. Pretendo continuar os estudos seguindo para node e React.
   
   
+  <div align="center">
   
-  
-   ![Studio Ghibli](https://user-images.githubusercontent.com/104699641/192444433-8b739541-573c-4677-a93d-4dbddcbc7787.gif)
- 
-
-   
+   ![Studio Ghibli](https://user-images.githubusercontent.com/104699641/192444433-8b739541-573c-4677-a93d-4dbddcbc7787.gif)   
  ![hytallo GitHub stats](https://github-readme-stats.vercel.app/api?username=hytallo36&show_icons=true&theme=radical) 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hytallo36&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 <div align="center">
   <a href="https://github.com/hytallo36">  
 </div>
