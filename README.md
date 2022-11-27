@@ -13,7 +13,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hytallo36&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 <div align="center">
-  <a href="https://github.com/hytallo36">  
+  <a href="https://github.com/KUMAkgs">  
 </div>
 <div align="center" style="display: inline_block"><br>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML" height="60" style="vertical-align:top; margin:4px">
@@ -24,7 +24,7 @@
  
   
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/hytallo-sousa-46a41b229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
  
   ![Snake animation](https://github.com/WaltRod/WaltRod/blob/output/github-contribution-grid-snake.svg)
  
