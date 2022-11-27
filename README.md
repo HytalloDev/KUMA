@@ -3,14 +3,15 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+KUMA;I'm+19+years+old;I+from+Brasil;Be+Welcome!+:%29)](https://git.io/typing-svg)
   
- Comecei na área de desenvolvimento e programação cerca de 1 ano, atualmente estou familiarizado com HTML5, CSS e JS. Pretendo continuar os estudos seguindo para node e React.
-  
+"Não basta conquistar a sabedoria, é preciso usá-la."
+  <br>
+  Cícero
   
   <div align="center">
   
    ![Studio Ghibli](https://user-images.githubusercontent.com/104699641/192444433-8b739541-573c-4677-a93d-4dbddcbc7787.gif)   
- ![hytallo GitHub stats](https://github-readme-stats.vercel.app/api?username=hytallo36&show_icons=true&theme=radical) 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hytallo36&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ ![kuma GitHub stats](https://github-readme-stats.vercel.app/api?username=KUMAkgs&show_icons=true&theme=radical) 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KUMAkgs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 <div align="center">
   <a href="https://github.com/KUMAkgs">  
