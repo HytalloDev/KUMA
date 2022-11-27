@@ -1,7 +1,7 @@
  <details>
  <summary>Um pouco sobre mim!
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Hytallo+Sousa+Modesto;I'm+19+years+old;I+from+Brasil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+KUMA;I'm+19+years+old;I+from+Brasil;Be+Welcome!+:%29)](https://git.io/typing-svg)
   
  Comecei na área de desenvolvimento e programação cerca de 1 ano, atualmente estou familiarizado com HTML5, CSS e JS. Pretendo continuar os estudos seguindo para node e React.
   
